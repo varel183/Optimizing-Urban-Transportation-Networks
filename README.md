@@ -2,7 +2,7 @@
 
 This project implements a graph data structure and uses Dijkstra's algorithm to find the shortest path between nodes in a directed weighted graph. The graph is visualized using the `NetworkX` library in Python.
 
-Paper : [Optimizing Urban Transportation Networks: Comparative Analysis of Dijkstra's Algorithm in Graph-Based Shortest Path Solutions](https://drive.google.com/file/d/10-32bzp5EdYUK66CYouRoDykO8ZZFq4E/view?usp=sharing)
+Paper : [Optimizing Urban Transportation Networks: Comparative Analysis of Dijkstra's Algorithm in Graph-Based Shortest Path Solutions](https://drive.google.com/file/d/19sPFOwDj2IVvo2-npoDTqe0bdXxeVdrV/view?usp=sharing)
 
 Video : [Youtube Video](https://youtu.be/W233D2MKjcw)
 
